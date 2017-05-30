@@ -1,2 +1,2 @@
 # HelloWorld
-just a repository
+只是一个仓库
